@@ -1,0 +1,5 @@
+{
+    "require": {
+        "agungsugiarto/codeigniter4-cors": "^3.0"
+    }
+}
